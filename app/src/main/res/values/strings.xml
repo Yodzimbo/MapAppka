@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OrangeApp1.0.1</string>
+    <string name="access_token">pk.eyJ1IjoibmFyYmUiLCJhIjoiY2o2bDc1dzlrMW5tbTJ4cnlsY2lycHMzayJ9.9R1IHJm8U4dABdo6anodow</string>
+
+    <!--Menu 3kropki-->
+    <string name="menuitem_title_tracking_mode_dismiss_on_gesture">Obsługa gestem</string>
+    <string name="menuitem_title_rotate_gesture_enabled">Obracanie mapy</string>
+    <string name="menuitem_title_scroll_gesture_enabled">Przewijanie mapy</string>
+    <string name="menuitem_title_bearing_mode_dismiss_on_gesture">Przemyśleć nazwę</string>
+    <string name="menuitem_title_change_location_source_lost">ZNajdz</string>
+    <string name="menuitem_title_change_location_source_mock">Zablokuj</string>
+    <string name="menuitem_title_change_location_source_null">Brak lokacji</string>
+    <string name="album_name">Orange zdjęcia</string>
+    <string name="location_picker_select_location_button_cancel">Postawiony</string>
+    <string name="location_picker_select_location_button_select">Wybrany</string>
+    <string name="location_picker_dropped_marker_snippet_no_results">Brak wyniku</string>
+    <string name="cannot">Nie można</string>
+</resources>
